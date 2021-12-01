@@ -1,6 +1,6 @@
 # hello-world
-My Whiteboard
-My name is Derek Hall, I am currently enro;;ed in Fintech Bootcamp at UNCC to in order to become a world renound Hacker! :-)
+My Whiteboard: 
+My name is Derek Hall. I am currently enrolled in Fintech Bootcamp at UNCC to in order to become a world renound Hacker! :-)
 Thank you for reading my readme file.
 Have a wonderful day!
 
