@@ -1,7 +1,6 @@
 # hello-world
 
-My name is Derek Hall. I am currently enrolled in Fintech Bootcamp at UNCC to in order to become an infamous Hacker!
-
+My name is Derek Hall. 
 :-)
 
 Thank you for reading my readme file.
